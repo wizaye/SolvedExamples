@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 class Solution {
     int indexfinder(int[] nums,int target,boolean startindex){
         int ans=-1;
