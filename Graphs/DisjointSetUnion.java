@@ -1,6 +1,5 @@
 package Graphs;
 import java.util.*;
-
 class DisjointSet{
     ArrayList<Integer> parent=new ArrayList<>();
     ArrayList<Integer> rank=new ArrayList<>();
