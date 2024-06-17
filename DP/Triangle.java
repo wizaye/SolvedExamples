@@ -17,6 +17,8 @@ public class Triangle {
         // Write your code here.
         // return helper(triangle,0,0,1,n);
 
+        //dp approach;
+
         int dp[][]=new int[n][n];
         for(int j=0;j<n;j++){
             dp[n-1][j]=triangle[n-1][j];
